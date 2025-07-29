@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/navanitha23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/navanitha23/LeetCode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/navanitha23/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/navanitha23/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/navanitha23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
