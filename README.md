@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/navanitha23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/navanitha23/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/navanitha23/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/navanitha23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/navanitha23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/navanitha23/LeetCode/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/navanitha23/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
