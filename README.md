@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/navanitha23/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/navanitha23/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/navanitha23/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/navanitha23/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/navanitha23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/navanitha23/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navanitha23/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
