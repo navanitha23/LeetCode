@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/navanitha23/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/navanitha23/LeetCode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/navanitha23/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/navanitha23/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/navanitha23/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/navanitha23/LeetCode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/navanitha23/LeetCode/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
