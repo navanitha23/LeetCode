@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/navanitha23/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/navanitha23/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/navanitha23/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/navanitha23/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/navanitha23/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
