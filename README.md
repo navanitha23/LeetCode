@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/navanitha23/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0907-koko-eating-bananas](https://github.com/navanitha23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/navanitha23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/navanitha23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/navanitha23/LeetCode/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/navanitha23/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/navanitha23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/navanitha23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
