@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/navanitha23/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/navanitha23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/navanitha23/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/navanitha23/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/navanitha23/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/navanitha23/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/navanitha23/LeetCode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/navanitha23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
