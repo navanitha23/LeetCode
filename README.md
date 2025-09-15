@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navanitha23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/navanitha23/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/navanitha23/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/navanitha23/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/navanitha23/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2413-smallest-number-in-infinite-set](https://github.com/navanitha23/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Queue
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/navanitha23/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/navanitha23/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/navanitha23/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/navanitha23/LeetCode/tree/master/0871-keys-and-rooms) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/navanitha23/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
