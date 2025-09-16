@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/navanitha23/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/navanitha23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/navanitha23/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/navanitha23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navanitha23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/navanitha23/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/navanitha23/LeetCode/tree/master/0649-dota2-senate) |
+| [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
