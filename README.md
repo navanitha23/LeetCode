@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/navanitha23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/navanitha23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/navanitha23/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/navanitha23/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/navanitha23/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/navanitha23/LeetCode/tree/master/0399-evaluate-division) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/navanitha23/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navanitha23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/navanitha23/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/navanitha23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/navanitha23/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/navanitha23/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/navanitha23/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/navanitha23/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/navanitha23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/navanitha23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/navanitha23/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/navanitha23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/navanitha23/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
