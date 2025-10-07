@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/navanitha23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/navanitha23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/navanitha23/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/navanitha23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/navanitha23/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/navanitha23/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/navanitha23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/navanitha23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0697-degree-of-an-array](https://github.com/navanitha23/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/navanitha23/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/navanitha23/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/navanitha23/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
