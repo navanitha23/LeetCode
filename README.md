@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/navanitha23/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/navanitha23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/navanitha23/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/navanitha23/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/navanitha23/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/navanitha23/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/navanitha23/LeetCode/tree/master/0649-dota2-senate) |
+| [0965-unique-email-addresses](https://github.com/navanitha23/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/navanitha23/LeetCode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/navanitha23/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/navanitha23/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/navanitha23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/navanitha23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/navanitha23/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0965-unique-email-addresses](https://github.com/navanitha23/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/navanitha23/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/navanitha23/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/navanitha23/LeetCode/tree/master/1319-unique-number-of-occurrences) |
