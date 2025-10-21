@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/navanitha23/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/navanitha23/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/navanitha23/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/navanitha23/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/navanitha23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/navanitha23/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/navanitha23/LeetCode/tree/master/0898-transpose-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/navanitha23/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/navanitha23/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/navanitha23/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/navanitha23/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navanitha23/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/navanitha23/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/navanitha23/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/navanitha23/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
