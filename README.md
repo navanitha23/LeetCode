@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/navanitha23/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/navanitha23/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/navanitha23/LeetCode/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/navanitha23/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/navanitha23/LeetCode/tree/master/1044-find-common-characters) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
 | [0941-sort-array-by-parity](https://github.com/navanitha23/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/navanitha23/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/navanitha23/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/navanitha23/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/navanitha23/LeetCode/tree/master/0649-dota2-senate) |
 | [0965-unique-email-addresses](https://github.com/navanitha23/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/navanitha23/LeetCode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/navanitha23/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/navanitha23/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/navanitha23/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/navanitha23/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/navanitha23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
 | [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
