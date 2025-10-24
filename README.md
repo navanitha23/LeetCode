@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/navanitha23/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/navanitha23/LeetCode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/navanitha23/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0861-flipping-an-image](https://github.com/navanitha23/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/navanitha23/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/navanitha23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/navanitha23/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/navanitha23/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/navanitha23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0861-flipping-an-image](https://github.com/navanitha23/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/navanitha23/LeetCode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/navanitha23/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/navanitha23/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/navanitha23/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/navanitha23/LeetCode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/navanitha23/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/navanitha23/LeetCode/tree/master/0898-transpose-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/navanitha23/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/navanitha23/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/navanitha23/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/navanitha23/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/navanitha23/LeetCode/tree/master/0443-string-compression) |
+| [0861-flipping-an-image](https://github.com/navanitha23/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/navanitha23/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/navanitha23/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/navanitha23/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/navanitha23/LeetCode/tree/master/0338-counting-bits) |
+| [0861-flipping-an-image](https://github.com/navanitha23/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
