@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/navanitha23/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/navanitha23/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/navanitha23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/navanitha23/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1115-valid-boomerang](https://github.com/navanitha23/LeetCode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/navanitha23/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/navanitha23/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/navanitha23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/navanitha23/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/navanitha23/LeetCode/tree/master/0948-sort-an-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/navanitha23/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1397-search-suggestions-system](https://github.com/navanitha23/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/navanitha23/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/navanitha23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/navanitha23/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/navanitha23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0979-di-string-match](https://github.com/navanitha23/LeetCode/tree/master/0979-di-string-match) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/navanitha23/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/navanitha23/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2636-maximum-subsequence-score](https://github.com/navanitha23/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
